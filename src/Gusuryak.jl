@@ -1,0 +1,3 @@
+module Gusuryak
+
+end # module

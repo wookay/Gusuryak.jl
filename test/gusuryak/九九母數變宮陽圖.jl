@@ -1,4 +1,4 @@
-module test_kusuryak_九九母數變宮陽圖
+module test_gusuryak_九九母數變宮陽圖
 
 using Test
 
@@ -43,4 +43,4 @@ using Millboard # table
 |   | (7, 6) (8, 5) (9, 4) | (1, 3) (2, 2) (3, 1) | (4, 9) (5, 8) (6, 7) |
 | 3 | (9, 5) (7, 4) (8, 6) | (3, 2) (1, 1) (2, 3) | (6, 8) (4, 7) (5, 9) |"""
 
-end # module test_kusuryak_九九母數變宮陽圖
+end # module test_gusuryak_九九母數變宮陽圖
